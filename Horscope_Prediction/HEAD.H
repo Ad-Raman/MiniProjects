@@ -234,7 +234,7 @@ class bhakt
 			 "\n*  It is really important for you to do everything in your own way, and if you are intervened with other people you generally loose the shapes of the main purpose, step back and let the other person take your place."
 			 "\n*  You are unhappy in your domestic life. It is very difficult for such people to meet a member of the opposite sex who would understand you, and if opposition does not upset you from this point it usually does through your children."
 			 "\n*  You deeply, fervently and strongly desire for affection and sympathy, more than anything else, and this is generally the rock on which you are finally wrecked if you have not the good fortune to meet your right affinities."
-			 "\n*  As far as material success or power is concerned, there are no heights to which persons born in this sign wouldn’t be able to. Success, however, is not making you feel really happy and satisfied."
+			 "\n*  As far as material success or power is concerned, there are no heights to which persons born in this sign wouldnÂ’t be able to. Success, however, is not making you feel really happy and satisfied."
 			 "\n*  You are inclined to lack caution, being by nature impulsive and quick in thought and action."
 			 "\n*  You are enormously ambitious, as a rule you succeed in life and gain money and position.";
 	}
@@ -359,7 +359,7 @@ class bhakt
 				  "\n*  The birth stones most favorable for you are pearls, diamonds, opals, crystals and moonstones."
 				  "\n*  It is very easy for you to become excellent artists, writers, composers, or musicians."
 				  "\n*  At heart you are romantic and of a very loving and affectionate disposition."
-				  "\n*  You are perhaps the most sensitive natures from any other class of people and if aren’t recognized you quickly give up or get depressed and melancholy."
+				  "\n*  You are perhaps the most sensitive natures from any other class of people and if arenÂ’t recognized you quickly give up or get depressed and melancholy."
 				  "\n*  You require encouragement and appreciation."
 				  "\n*  Your deep sensitivity presents you with valuable and illuminating intuitions, especially regarding those you care for."
 				  "\n*  You often make excellent psychics, and usually have a yearning after the mysterious."
@@ -383,7 +383,7 @@ class bhakt
 					"\n*  You are overflowing with sympathy, and are generally generous to a fault."
 					"\n*  You feel isolated and lonely in life, and if not actively employed in some work or purpose you become melancholy and despondent."
 					"\n*  You are natural leader and chief."
-					"\n*  You don’t easily become friends with other horoscopes"
+					"\n*  You donÂ’t easily become friends with other horoscopes"
 					"\n*  You are inclined to suffer from headache, trouble with the eyes and other things concerned the head."
 					"\n*  You are liable to get cuts and wounds in the head, and you usually run danger from fire."
 					"\n*  You are natural leader and chief.In reality the supervising position is what you aspire to."
@@ -493,7 +493,7 @@ class bhakt
 					 "\n*  You are inclined to suffer most from nerves and depression of spirits."
 					 "\n*  You suffer from pains in the lower back and kidneys."
 					 "\n*  You usually suffer from severe headaches."
-					 "\n*  It isn’t healthy for you to eat too-much sugary foods."
+					 "\n*  It isnÂ’t healthy for you to eat too-much sugary foods."
 					 "\n*  All shades of blue, violet, purple and mauve are more suitable colour for you."
 					 "\n*  The opal and the pearl are your birthstones."
 					 "\n*  You values peace at all costs, and very fair minded."
@@ -551,7 +551,7 @@ class bhakt
 					  "\n*  You are interested in marriage and long-term commitment."
 					  "\n*  Relationships are a kind of mystery for you so anyone involved with you must prepare for profound changes in yourself, your mysterious partner and the relationship itself."
 					  "\n*  You should be encouraged to have ambition, for it is the one thing that will save you."
-					  "\n*  You’ll make any sacrifice or deny yourself any pleasure, and so accomplish more work than any other class."
+					  "\n*  YouÂ’ll make any sacrifice or deny yourself any pleasure, and so accomplish more work than any other class."
 					  "\n*  You need to dominate relationships and rarely display your true feelings even at the most open and communicative moments."
 					  "\n*  Although you may not intentionally set out to be mysterious, you manage to appear enigmatic anyway."
 					  "\n*  You hate being crossed or manipulated, and can react to such treatment with sarcasm and vengefulness."
@@ -616,7 +616,7 @@ class bhakt
 					 "\n*  You marked by a purposeful pursuit of your destiny."
 					 "\n*  You have a sense of purpose and a great faith in your own ability."
 					 "\n*  You are usually mentally strong."
-					 "\n*  You generally aren’t understood by other people."
+					 "\n*  You generally arenÂ’t understood by other people."
 					 "\n*  You are fits as thinkers, reasoners, and usually successful in business or any form of government work."
 					 "\n*  Your sign is a pushy Cardinal Earth sign ruled by Saturn, the planet of adversity."
 					 "\n*  You are very independent and high-minded in all what you do."
@@ -626,7 +626,7 @@ class bhakt
 					 "\n*  You are leader in whatever you are engaged, or else you are inclined to lose your interest in what you do."
 					 "\n*  You are serious individual."
 					 "\n*  Beneath your reserve there is a sensitive and sympathetic person and anyone who needs a strong shoulder to lean on."
-					 "\n*  Once you fall in love and commit, you’re typical unlikely to jeopardize the union."
+					 "\n*  Once you fall in love and commit, youÂ’re typical unlikely to jeopardize the union."
 					 "\n*  You place great importance on personal happiness."
 					 "\n*  You are a mixed bag of both greatness and evil."
 					 "\n*  You can be guileful and artful working everything out delicately."
@@ -650,7 +650,7 @@ class bhakt
 					 "\n*  You may seem to be cold, you have warm hearts towards suffering."
 					 "\n*  Fear is at the root of all your troubles."
 					 "\n*  You worship intellectual, clever people."
-					 "\n*  You rarely interfere with the affairs of others, but you’ll will never stand interference from others."
+					 "\n*  You rarely interfere with the affairs of others, but youÂ’ll will never stand interference from others."
 					 "\n*  Government or responsible positions of control and management of others is the best work for you."
 					 "\n*  You are inclined to excite bitter opposition but bear up against it with a philosophic spirit."
 					 "\n*  Your home and family life is very often a troubled one."
@@ -716,7 +716,7 @@ class bhakt
 					 "\n*  You have a dislike and dread of being dependent on others more than from any love of money."
 					  "\n*  You are often classed as superstitious, the occult in all its forms appealing to you in one way or another."
 					 "\n*  You love to search out or investigate the unknown, the philosophical, or the mysterious."
-					 "\n*  There’s is no position in life you could not attain."
+					 "\n*  ThereÂ’s is no position in life you could not attain."
 					 "\n*  You will lie to save your feelings, or just to stake out a little privacy for yourself."
 					 "\n*  You can get addicted to booze, pills, or crackerjacks, so you really have to watch it."
 					 "\n*  You don't like to be alone too much, just a little, to get the peace back."
@@ -741,7 +741,7 @@ class bhakt
 					 "\n*  You imagine all the world is against you and that you are being made martyrs of. Depression gets you."
 					 "\n*  You see life as a mystical whole."
 					 "\n*  You plan the evening on the basis of a reading from a fortune cookie."
-					 "\n*  You think you’re a bad person when things go wrong."
+					 "\n*  You think youÂ’re a bad person when things go wrong."
 					 "\n*  You are very devoted to your friends or to any cause you take up, provided you feel you are trusted or looked up to."
 					 "\n*  You are generally successful in ail positions of responsibility."
 					 "\n*  You are not inclined to push yourself forward, and usually wait to be asked before giving oyur opinions."
@@ -939,7 +939,7 @@ public:
 		fort[53]="EAT YOUR VEGETABLE AND YOU WILL BE STRONG LIKE POPEYE.";
 		fort[54]="A CLOSED MOUTH GATHERS NO FEET.";
 		fort[55]="YOU WILL MAKE A GREAT LAWYER.";
-		fort[56]="IF YOU THINK YOU’RE TOO SMALL TO BE EFFECTIVE, YOU’VE NEVER BEEN IN BED WITH A MOSQUITO.";
+		fort[56]="IF YOU THINK YOUÂ’RE TOO SMALL TO BE EFFECTIVE, YOUÂ’VE NEVER BEEN IN BED WITH A MOSQUITO.";
 		fort[57]="A ROLLING STONE GATHERS NO MOSS.";
 		fort[58]="YOU CAN ALWAYS FIND HAPPINESS AT WORK ON FRIDAY.";
 		fort[59]="A FANATIC IS ONE WHO CAN'T CHANGE HIS MIND, AND WON'T CHANGE THE SUBJECT.";
@@ -1004,7 +1004,7 @@ public:
 		cout<<"DAY (dd): ";
 		cin>>a.day;
 	//checking errors in DOB
-		if((a.month>12)||(a.month==2&&a.day>=30)||(a.month==1,3,5,7,8,10,12&&a.day>31)||(a.month==2,4,6,9,11&&a.day>30))
+		if((a.month>12)||(a.month==2&&a.day>=30)||(((a.month==1)||(a.month==3)||(a.month==5)||(a.month==7)||(a.month==8)||(a.month==10)||(a.month==12))&&a.day>31)||(((a.month==2)||(a.month==4)||(a.month==6)||(a.month==9)||(a.month==11))&&a.day>30))
 		{
 			cout<<"THE ENTRY YOU MADE WAS WRONG.....";
 			cout<<"PLEASE ENTER CORRECT DATE OF BIRTH ACCORDING TO GREGORIAN CALENDAR";

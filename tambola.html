@@ -1,0 +1,200 @@
+<html><style type="text/css">
+<!--
+body {
+	background-color: #2b6f8e;
+}
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.style2 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #000066;
+}
+.style3 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+}
+-->
+</style>
+<SCRIPT language="JavaScript">
+<!--
+function get_random(maxNum)
+{
+  //var arr = [];
+  var mysy = new Array(); 
+mysy[1]= "Lone ranger" ;
+mysy[2]= "One little duck";
+mysy[3]= "Happy family";
+mysy[4]= "Murgi chor";
+mysy[5]= "Punjab da puttar";
+mysy[6]= "Bottom heavy";
+mysy[7]= "One hockey stick";
+mysy[8]= "one fat major";
+mysy[9]= "Doctor's time";
+mysy[10]= "A big fat hen";
+mysy[11]= "Katrina legs";
+mysy[12]= "One dozen";
+mysy[13]= "Bakers dozen";
+mysy[14]= "Valentine's Day";
+mysy[15]= "Yet to be kissed";
+mysy[16]= "Here she comes sweet and lovely one and six sixteen";
+mysy[17]= "Over sweet";
+mysy[18]= "Marriagable and managable";
+mysy[19]= "Last of the teens";
+mysy[20]= "One score";
+mysy[21]= "Watch your son if you have one at 21";
+mysy[22]= "Two little ducks";
+mysy[23]= "You and me";
+mysy[24]= "Two dozen";
+mysy[25]= "One Quarter";
+mysy[26]= "Republic Day";
+mysy[27]= "Gateway to heaven";
+mysy[28]= "Duck and its mate";
+mysy[29]= "In your prime";
+mysy[30]= "Women get flirty at 30";
+mysy[31]= "Time for fun";
+mysy[32]= "Mouth Full";
+mysy[33]= "All the 3s";
+mysy[34]= "Dil mange more";
+mysy[35]= "Flirty wife";
+mysy[36]= "Popular size";
+mysy[37]= "Mixed luck";
+mysy[38]= "Oversize";
+mysy[39]= "Watch your waistline";
+mysy[40]= "Naughty 40";
+mysy[41]= "Life's begun at 41";
+mysy[42]= "Quit India Movement";
+mysy[43]= "Pain in the knee";
+mysy[44]= "All the fours";
+mysy[45]= "Halfway there";
+mysy[46]= "Up to tricks";
+mysy[47]= "Year of Independence";
+mysy[48]= "Four dozen";
+mysy[49]= "Rise and shine";
+mysy[50]= "Half a century";
+mysy[51]= "Charity begins at 51";
+mysy[52]= "Pack of cards";
+mysy[53]= "Pack with a joker";
+mysy[54]= "Pack with two jokers";
+mysy[55]= "All the fives";
+mysy[56]= "Pick up sticks";
+mysy[57]= "Mutiny Year";
+mysy[58]= "Time to retire";
+mysy[59]= "Just retired";
+mysy[60]= "Five dozen";
+mysy[61]= "Bakers bun";
+mysy[62]= "Click the two";
+mysy[63]= "Click the three";
+mysy[64]= "Catch the chor";
+mysy[65]= "Lahore chalo";
+mysy[66]= "Both the sixes";
+mysy[67]= "June-July";
+mysy[68]= "Saving grace";
+mysy[69]= "Ulta Pulta";
+mysy[70]= "Lucky blind";
+mysy[71]="Lucky bachelor";
+mysy[72]= "Lucky couple";                
+mysy[73]= "A crutch and a flea";
+mysy[74]= "Lucky chor";
+mysy[75]= "Lucky Five";
+mysy[76]= "Lucky six";
+mysy[77]= "Two hockey sticks";
+mysy[78]= "Heaven's gate";
+mysy[79]= "One more time, lucky nine";
+mysy[80]= "Gandhi's breakfast";
+mysy[81]= "Corner shot is eight and one eighty one";
+mysy[82]= "Mamma and bacchu, is eight and two eighty two";
+mysy[83]= "India won the World Cup in eight and three eighty three";
+mysy[84]= "Last of the chors is eight and four eighty four";
+mysy[85]= "Grandma age is eight and five eighty five";
+mysy[86]= "Last of the sixes, eight and six eighty six";
+mysy[87]= "Much te wat, ath te sat, eight and seven eighty seven";
+mysy[88]= "Two fat majors eight and eight eighty eight";
+mysy[89]= "All but one eight and nine eighty nine";
+mysy[90]= "Top of the house blind nine zero ninety";
+
+
+  var prev = document.getElementById("hd").value;
+  var arr = new Array();
+  arr = prev.split(",");
+  for (a in arr ) {
+   arr[a] = parseInt(arr[a]);
+    //alert(temp[a]); 
+  }
+ 
+
+  while(arr.length < 91){
+  var randomnumber=Math.ceil(Math.random()*90)
+  var found=false;
+  for(var i=0;i<arr.length;i++){
+    if(arr[i]==randomnumber){found=true;break}
+  }
+  if(!found)
+  {
+      arr[arr.length]=randomnumber;
+      document.getElementById(randomnumber).style.backgroundColor="#99CC00";
+      document.getElementById("rd").value = prev;
+      document.getElementById("hd").value = prev +"," + randomnumber;
+      document.getElementById("txt1").value =mysy[randomnumber] + " Number " + randomnumber;
+      return randomnumber;
+  }
+  }//end while
+  
+  alert("All Numbers Completed");
+}
+ 
+ 
+/*
+  if (Math.random && Math.floor)
+  {
+    var ranNum= Math.floor(Math.random()*(maxNum));
+    return ranNum;
+  }*/
+
+ 
+    
+
+//-->
+</SCRIPT>
+
+<body>
+<table width="1000" border="0" align="center">
+  <tr>
+    <td height="75" bgcolor="#BDE2F4"><div align="center" class="style2">TAMBOLA PROGRAM </div></td>
+  </tr>
+  <tr>
+    <td height="46" align="center" bgcolor="#BDE2F4"><table width="460" height="355" border="1" ALIGN ="center" cellpadding ="5" cellspacing="5" bgcolor="#E5E5E5">
+<tr><td id="1">1</td><td id="2">2</td><td id="3">3</td><td id="4">4</td><td id="5">5</td><td id="6">6</td><td id="7">7</td><td id="8">8</td><td id="9">9</td><td id="10">10</td></tr>
+<tr><td id="11">11</td><td id="12">12</td><td id="13">13</td><td id="14">14</td><td id="15">15</td><td id="16">16</td><td id="17">17</td><td id="18">18</td><td id="19">19</td><td id="20">20</td></tr>
+<tr><td id="21">21</td><td id="22">22</td><td id="23">23</td><td id="24">24</td><td id="25">25</td><td id="26">26</td><td id="27">27</td><td id="28">28</td><td id="29">29</td><td id="30">30</td></tr>
+<tr><td id="31">31</td><td id="32">32</td><td id="33">33</td><td id="34">34</td><td id="35">35</td><td id="36">36</td><td id="37">37</td><td id="38">38</td><td id="39">39</td><td id="40">40</td></tr>
+<tr><td id="41">41</td><td id="42">42</td><td id="43">43</td><td id="44">44</td><td id="45">45</td><td id="46">46</td><td id="47">47</td><td id="48">48</td><td id="49">49</td><td id="50">50</td></tr>
+<tr><td id="51">51</td><td id="52">52</td><td id="53">53</td><td id="54">54</td><td id="55">55</td><td id="56">56</td><td id="57">57</td><td id="58">58</td><td id="59">59</td><td id="60">60</td></tr>
+<tr><td id="61">61</td><td id="62">62</td><td id="63">63</td><td id="64">64</td><td id="65">65</td><td id="66">66</td><td id="67">67</td><td id="68">68</td><td id="69">69</td><td id="70">70</td></tr>
+<tr><td id="71">71</td><td id="72">72</td><td id="73">73</td><td id="74">74</td><td id="75">75</td><td id="76">76</td><td id="77">77</td><td id="78">78</td><td id="79">79</td><td id="80">80</td></tr>
+<tr><td id="81">81</td><td id="82">82</td><td id="83">83</td><td id="84">84</td><td id="85">85</td><td id="86">86</td><td id="87">87</td><td id="88">88</td><td id="89">89</td><td id="90">90</td></tr>
+
+</table></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#BDE2F4">  <FORM>
+<P ALIGN="CENTER"><INPUT TYPE="button" value="Generate Next Number" onClick="get_random(10)"> 
+<input id= "hd" type="hidden" value="0" >
+</P>
+ <span class="style1">Text To Read</span> <strong>:</strong> 
+<input id="txt1" type ="textbox" size="100">
+ <br>
+ <br>
+ <span class="style1">Last Number Called :</span> 
+ <textarea id="rd" rows="6" cols="50"></textarea>
+</FORM>   </td>
+  </tr>
+</table>
+  <div align="center" class="style3">&copy; Aditya Raman</br>
+  <a href="https://github.com/Ad-Raman/MiniProjects"> https://github.com/Ad-Raman/MiniProjects </a> </div>
+</body>
+</html>
